@@ -1,7 +1,7 @@
 # Image Toolkit (OpenCV) - Project
-Author: <Your Name>
-Course: <Course Name>
-Date: <Date>
+Author: Muhammad Hammad S
+Course: Python Intern in Navodita Infotech
+Date: 25-09-2025
 
 ## Description
 A simple Python/OpenCV based toolkit that allows:
